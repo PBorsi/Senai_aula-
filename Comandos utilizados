@@ -1,0 +1,12 @@
+Comandos utilizados para esta atividade:
+
+git banch checkout
+git commit -m
+git checkout
+git add .
+git status
+git banch -a
+git push -u origin
+git remote add origin
+git merge
+git status
